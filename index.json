@@ -2,24 +2,21 @@
   "name": "My Jingle Pack",
   "switch": [
     {
-      "game": "Xenoblade Chronicles 3",
+      "name": "Xenoblade Chronicles 3",
       "file": "jingles/switch/xenoblade-chronicles-3.wav"
     },
     {
-      "game": "Super Smash Bros Ultimate",
+      "name": "Super Smash Bros Ultimate",
       "file": "jingles/switch/super-smash-bros-ultimate.wav"
     },
     {
-      "game": "Tomodachi Life Living the Dream",
+      "name": "Tomodachi Life Living the Dream",
       "file": "jingles/switch/tomodachi-life-living-the-dream.wav"
     },
     {
-      "game": "Mario Kart 8 Deluxe",
+      "name": "Mario Kart 8 Deluxe",
       "file": "jingles/switch/mario-kart-8-deluxe.wav"  
     }
-  ],
-  "nes": [
-    {
-      "game":
-      "file":
+  ]
+}
 
