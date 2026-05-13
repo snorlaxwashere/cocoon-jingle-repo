@@ -6,8 +6,20 @@
       "file": "jingles/switch/xenoblade-chronicles-3.wav"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Super Smash Bros Ultimate",
+      "file": "jingles/switch/super-smash-bros-ultimate.wav"
+    },
+    {
+      "game": "Tomodachi Life Living the Dream",
+      "file": "jingles/switch/tomodachi-life-living-the-dream.wav"
+    },
+    {
+      "game": "Mario Kart 8 Deluxe",
+      "file": "jingles/switch/mario-kart-8-deluxe.wav"  
     }
-  ]
-}
+  ],
+  "nes": [
+    {
+      "game":
+      "file":
+
