@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
-  "entries": [
+  "name": "My Jingle Pack",
+  "switch": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Xenoblade Chronicles 3",
+      "file": "jingles/switch/xenoblade-chronicles-3.wav"
     },
     {
       "game": "Example Game 2",
